@@ -1,4 +1,3 @@
 "hello world"
 
-do."hello_world"
-end
+puts :hello_world
